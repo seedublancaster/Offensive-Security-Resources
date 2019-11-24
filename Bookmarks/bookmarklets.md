@@ -1,5 +1,8 @@
-https://github.com/seedublancaster/OffensiveSecurity-Resources/blob/master/Bookmarks/bookmarklets.md#cve-list-search-for-specific-cve-id
+# Bookmarklets
+## Table of Contents:
+
 [Vulnerabilities](#Vulnerabilities)
+
 ## Vulnerabilities:
 ### CVE List
 #### search for specific CVE ID
