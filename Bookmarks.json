@@ -1,0 +1,19 @@
+[
+  {
+    "id": 0,
+    "type": "bookmarks",
+    "subtype": "bookmarks-managed"
+  },
+  {
+    "id": 1,
+    "title": "Learn JSON in 10 minutes (YT)",
+    "url": "https://youtu.be/iiADhChRriM",
+    "tags": [
+      "JSON",
+      "javascript",
+      "coding",
+      "development",
+      "video"
+    ]
+  }
+]
